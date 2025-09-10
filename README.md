@@ -27,7 +27,7 @@ git clone https://github.com/genznet/genz-xl
 ```
 5. Open the folder
 ```
-cd me-cli
+cd genz-xl
 ```
 6. Install dependencies
 ```
