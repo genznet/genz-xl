@@ -39,13 +39,4 @@ python main.py
 ```
 8. Input your API key when prompted
 
-# Info
 
-## PS for Certain Indonesian mobile internet service provider
-
-Instead of just delisting the package from the app, ensure the user cannot purchase it.
-What's the point of strong client side security when the server don't enforce it?
-
-## Contact
-
-contact@mashu.lol
